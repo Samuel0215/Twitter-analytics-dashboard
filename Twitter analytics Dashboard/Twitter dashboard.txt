@@ -1,0 +1,11 @@
+My internship at Nullclass has provided me with a vivid knowledge about Data Analysis and it's objectives.
+
+I was assigned to create a Twitter Analytics dashboard using Power BI. The process was completely interesting and engaging.
+
+I got a better knowledge of  Analysing, organising, cleaning and modifying data, through which we can generate  actionable insight.
+
+I was provided with few tasks which were challenging, but I managed to complete them using the guidance from Nullclass. Organising and cleaning the data was a bit challenging due to certain errors but after rectifying it I created a insightfull twitter analytics dashboard using Power BI.
+
+To sum it up I gained hands on experience to create a dashboard using Power BI from scratch, and I believe it will be useful in my learning. Nullclass has helped me through the process by which I was able to complete the tasks. 
+
+I Thank Nullclass for providing me the opportunity.
